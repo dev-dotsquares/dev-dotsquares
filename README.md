@@ -40,8 +40,8 @@ I am a **Full-Stack Developer** passionate about building scalable backend syste
 ## 📫 Let's Connect!
 
 <p align="left">
-<a href="mailto:apurvgupta.124@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/apurv-gupta2000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abhisheksinghinfo7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mranoint"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://apurvvportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1lXaLt8BWbsTGVg9COOfARwR1oqhMZHNj/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
 </p>
@@ -49,7 +49,7 @@ I am a **Full-Stack Developer** passionate about building scalable backend syste
 ## 📈 My Real-Time GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apurvgupta-ops&theme=tokyo-night&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-dotsquares&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
-<p align="center">⭐️ From [apurvgupta-ops](https://github.com/apurvgupta-ops)</p>
+<p align="center">⭐️ From [dev-dotsquares](https://github.com/dev-dotsquares)</p>
