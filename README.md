@@ -1,4 +1,4 @@
-# <p align="center">Hi there, I'm [Apurv Gupta](https://linkedin.com/in/apurv-gupta2000) 👋</p>
+# <p align="center">Hi there, I'm [Abhishek Singh](https://linkedin.com/in/mranoint) 👋</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Automation+Enthusiast;Backend+Architect;Problem+Solver" alt="Typing SVG" />
